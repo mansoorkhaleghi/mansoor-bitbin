@@ -1,0 +1,9 @@
+kaggle
+psycopg2-binary
+pandas
+sqlalchemy
+clickhouse-driver
+qdrant-client
+scikit-learn
+tabulate
+autogen
